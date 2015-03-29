@@ -1,0 +1,9 @@
+import org.teachingextensions.logo.Tortoise;
+import org.teachingextensions.logo.Turtle.Animals;
+
+public class MyFirstProgram {
+	public static void main(String[] args) {
+		Tortoise.show();
+		
+	}
+}
